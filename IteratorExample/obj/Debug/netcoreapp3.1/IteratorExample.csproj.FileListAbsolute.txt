@@ -1,0 +1,13 @@
+D:\Akiyama\IteratorExample\IteratorExample\bin\Debug\netcoreapp3.1\IteratorExample.exe
+D:\Akiyama\IteratorExample\IteratorExample\bin\Debug\netcoreapp3.1\IteratorExample.deps.json
+D:\Akiyama\IteratorExample\IteratorExample\bin\Debug\netcoreapp3.1\IteratorExample.runtimeconfig.json
+D:\Akiyama\IteratorExample\IteratorExample\bin\Debug\netcoreapp3.1\IteratorExample.runtimeconfig.dev.json
+D:\Akiyama\IteratorExample\IteratorExample\bin\Debug\netcoreapp3.1\IteratorExample.dll
+D:\Akiyama\IteratorExample\IteratorExample\bin\Debug\netcoreapp3.1\IteratorExample.pdb
+D:\Akiyama\IteratorExample\IteratorExample\obj\Debug\netcoreapp3.1\IteratorExample.csprojAssemblyReference.cache
+D:\Akiyama\IteratorExample\IteratorExample\obj\Debug\netcoreapp3.1\IteratorExample.AssemblyInfoInputs.cache
+D:\Akiyama\IteratorExample\IteratorExample\obj\Debug\netcoreapp3.1\IteratorExample.AssemblyInfo.cs
+D:\Akiyama\IteratorExample\IteratorExample\obj\Debug\netcoreapp3.1\IteratorExample.csproj.CoreCompileInputs.cache
+D:\Akiyama\IteratorExample\IteratorExample\obj\Debug\netcoreapp3.1\IteratorExample.dll
+D:\Akiyama\IteratorExample\IteratorExample\obj\Debug\netcoreapp3.1\IteratorExample.pdb
+D:\Akiyama\IteratorExample\IteratorExample\obj\Debug\netcoreapp3.1\IteratorExample.genruntimeconfig.cache
